@@ -10,3 +10,9 @@ Simple ETL pipeline using Pandas which loads data from weather api, saves it to 
 - PostgreSQL
 - SQLAlchemy
 - Requests
+- Docker Compose
+- Uv
+
+## Beautiful Visualizations
+
+![Visualization Example](temperature_plot.png)
