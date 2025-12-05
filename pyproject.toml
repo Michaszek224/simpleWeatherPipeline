@@ -1,0 +1,13 @@
+[project]
+name = "pandas10min"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "psycopg2>=2.9.11",
+    "requests>=2.32.5",
+    "sqlalchemy>=2.0.44",
+]
